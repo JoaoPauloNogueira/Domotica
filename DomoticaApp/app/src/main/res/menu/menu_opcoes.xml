@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/mgr_opcoes">
+        <item android:title="@string/menu_item_lista_comodos"
+            android:id="@+id/mit_listar"
+            android:icon="@android:drawable/ic_menu_myplaces" />
+        <item android:title="@string/menu_item_adicionar"
+            android:id="@+id/mit_adicionar"
+            android:icon="@android:drawable/ic_menu_add" />
+    </group>
+
+</menu>
